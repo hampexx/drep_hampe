@@ -64,7 +64,7 @@
       "@value": "Became a free  citizen who participate in the decision making of the crypto ecosystem. Basically I am motivated to evolve and use the crypto as its intended as a new level of identity."
     },
     "objectives": {
-      "@value": "I want to use my woting power to preserve the freedom of crypto"
+      "@value": "I want to use my woting power to preserve the freedom of crypto."
     },
     "paymentAddress": {
       "@value": "addr1q8s0gwte5kmqdajmzz5fnrl28fs57jrhhekykvq3qvgk8hl63wrtm0a3u43lcv895364640v28vh59t768xgrpdrp3ys6rrv7n"
@@ -80,6 +80,15 @@
         },
         "uri": {
           "@value": "https://www.linkedin.com/in/balinttoth95/"
+        }
+      },
+      {
+        "@type": "Identity",
+        "label": {
+          "@value": "Drep"
+        },
+        "uri": {
+          "@value": "https://cexplorer.io/governance/drep/drep1efhkmkj5ts0fms4r4x0798pkv5yjlevgn77yuhlssql7s763c4c"
         }
       }
     ]
